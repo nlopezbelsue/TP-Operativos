@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "planificadores.h": "c",
+        "shared.h": "c",
+        "utilsclient.h": "c",
+        "comunicacion.h": "c",
+        "estructurascompartidas.h": "c",
+        "main.h": "c",
+        "type_traits": "c",
+        "pcb.h": "c",
+        "stddef.h": "c",
+        "stdbool.h": "c",
+        "memoriainstrucciones.h": "c",
+        "leerconfigmemory.h": "c",
+        "stdlib.h": "c",
+        "queue.h": "c",
+        "esquema.h": "c",
+        "cicloinstruccion.h": "c",
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "init.h": "c",
+        "utilidades.h": "c",
+        "ejecucioninstrucciones.h": "c",
+        "mmu.h": "c",
+        "log.h": "c",
+        "signal.h": "c"
+    }
+}
